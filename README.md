@@ -60,8 +60,11 @@ python partb5.py keyword1 keyword2 keyword3
 
 ## Dependencies
 • argparse (partb1.py)
+
 • nltk (partb3.py)
+
 • math (found in partb5.py)
+
 • sklearn (found in partb5.py)
 
 ## Contributing
